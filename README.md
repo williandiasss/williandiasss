@@ -1,8 +1,7 @@
-## Hi there 👋
 
-<!--# 👋 Olá, eu sou o Willian Dias
+<!-- 👋 Olá, eu sou o Willian Dias
 
-### 🌐 Desenvolvedor Fullstack em formação
+ 🌐 Desenvolvedor Fullstack em formação
 
 Sou apaixonado por tecnologia e estou construindo minha jornada como **Fullstack Developer**, aprendendo e aplicando tecnologias como:
 
@@ -10,19 +9,15 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como **Fullstack
 - ⚛️ React, TypeScript  
 - 🖥️ Node.js
 
----
-
-### 🚀 Sobre mim
+ 🚀 Sobre mim
 
 - 🎯 Focado em evoluir todos os dias
 - 💡 Curioso por natureza e motivado por desafios
 - 🛠️ Gosto de transformar ideias em projetos reais
 
-> _"Cada linha de código é um passo mais perto do meu futuro."_
+> _"Cada linha de código é um passo mais perto do meu futuro
 
----
-
-### 📫 Onde me encontrar
+ 📫 Onde me encontrar
 
 [![LinkedIn](www.linkedin.com/in/willian-diass
 
